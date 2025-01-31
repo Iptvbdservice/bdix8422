@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Warning ⚠️"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuYuzM6YMXYfvGiSc0VEoumKbW8ti1OB3aeZl1HYUPckZHHVjH8KWGDxKdEuFkoILi6CpJLK5S5H3kI8BlkM5zQaUnb1Kyz4zULs6do4RX4NSJStfXEDch1TVsKjUvQw_TkIitMIi4utPG8X0Wjnr0cv8B6PISquKWCVtYQxJluLBj_-7FOgA39qEfjxc/s320/1000026075.gif" , You're Streaming IPTV BD LIVE TV PREMIUM 
+https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/d6cf1902-66f2-622a-055e-b1fe16a3feb2.m3u8?rendition=4500,4628000&amsmt=st=1738305950~exp=1738306070~hmac=f21d7a8db175d1b3719d5290f3e1b45c1d15b4aecc4e158a5381e67664c2ed49
 #EXTINF:-1 group-title="AS | BANGLADESH" ,SOMOY TV
 http://ktv.im:8080/708970545/364316888/83781
 #EXTINF:-1 group-title="AS | BANGLADESH" ,Jamuna TV
