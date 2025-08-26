@@ -1,14 +1,18 @@
 #EXTM3U
-#EXTINF:-1 group-title="LIVE MOVIE ☀️ 24/7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMlrgKcsKrh2fus_sXBQT1vfPbi2wY3CtClRZbKbBF2g49RMT9ZKW5D2E9SOEN6uQAUyjpby9nxqNhqPpo2ujXVl25cJMLhRpebWfLIhvQPAVjjxkihk8Unk_RZaqxYYWXhpck_3bfm8b8ym-DmE29462NO4aMQFMOv6v4fftOh3FIGewTLDwgj9Z6mto/s320/LogoWiz_07022025_033725%5B1%5D.JPEG" ,VISION HD BDIX
-http://161.248.188.101/visionhd/index.m3u8
-#EXTINF:-1 group-title="LIVE MOVIE ☀️ 24/7" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/be259af3-1f99-4e50-98e5-99eeccaefc64.jpg" ,BONGO MOVIES
-http://161.248.188.101/bongo-movies/index.m3u8
-#EXTINF:-1 group-title=" LIVE KIDS ☀️ 24/7" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/8/85/TJ_LOGO.jpg/revision/latest?cb=20160320180558" ,TOM & JERRY
-http://xtv.ooo:8080//live/4262701/52719/329247.ts
-#EXTINF:-1 group-title=" LIVE KIDS ☀️ 24/7" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" ,Sony yay
-http://xtv.ooo:8080//live/4262701/52719/26187.ts
-#EXTINF:-1 group-title=" LIVE KIDS ☀️ 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" ,24/7 MOTU PATLU
-http://xtv.ooo:8080//live/4262701/52719/311373.ts
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1753631234-LIVE.jpg", T Sports Live 01
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (1)
+https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (2)
+http://103.15.140.138/tsports/index.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (3)
+https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (4)
+https://tvsen5.aynaott.com/tsports/index.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (5)
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESHI"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmsFcK_840UCSTgKaUusMM95lOHvmZwWTWLQ&s" ,DEEPTO TV BDIX
 http://161.248.188.101/dipto_tv/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://cdn.ekattor.online/contents/themes/public/style/images/logo.png" ,EKATTOR-TV (BDIX)
@@ -8244,3 +8248,4 @@ http://atg100.xyz:80/live/UL33K17/SYC4T9D/1015257.ts
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1015258.ts
 #EXTINF:-1 group-title="AS | PAKISTAN" tvg-logo="http://go4.pw/GOLDTV/gold tv.png" ,PK - GOLD TV 24/7 | RESHMA
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1015260.ts
+
