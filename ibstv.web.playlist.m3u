@@ -3280,9 +3280,11 @@ https://hughag.store/hiji/live.php?id=2105525/ZeeAnmolCinemaELE&e=.m3u8
 http://103.122.252.100:8080/SONY-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IBS TV" tvg-id="Pogo Hindi HD" tvg-name="Pogo Hindi HD" tvg-logo="https://i.imgur.com/K3VqL4n.png",Pogo Hindi HD
 http://app.hughag.store/api/d2586d604e/playlist.m3u8
-#EXTINF:-1 group-title="IBS TV" tvg-id="Star Gold Thrills HD" tvg-name="Star Gold Thrills HD" tvg-logo="https://i.imgur.com/K3VqL4n.png",Star Gold Thrills HD
+#EXTINF:-1 group-title="IBS TV" tvg-id="Star Gold Thrills HD" tvg-name="Star Gold Thrills HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest/scale-to-width-down/200?cb=20211216004428",Star Gold Thrills HD
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
 
+#EXTINF:-1 group-title="HORROR MOVIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWJmZDA2ZDQtZjliMS00ODUxLTg0ZmUtMzkwOTkxNjNhMWQ2XkEyXkFqcGc@._V1_.jpg" , Dabbe: The Possession
+	https://pixeldrain.dev/api/file/iAsJ8E4m?download
 
 
 
